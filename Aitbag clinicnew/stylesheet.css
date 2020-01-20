@@ -1,0 +1,288 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar
+{
+    background-color:white;
+    color: black;
+}
+.navbar-brand
+{
+    color: 	#1874cd;
+}
+#closeBt
+{
+    background-image: url("Img/CAD1EF82517B4634A1C8BE9ACDEB888A.LogoProDesign1.eldp.png");
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    color: white;
+    border-radius: 100px;
+}
+.mainFont
+{
+    max-height: 450px;
+    min-height: 450px;
+    background-image: url("Img/C3PQ2QZ2HKRY6ZPJTBVGVNKUMM.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+#buttonS{
+
+    background-color: white;
+    color: black;
+    border-style: groove;
+}
+.display-5
+{
+    color: 	#1874cd;
+}
+.subFont
+{
+    max-height: 450px;
+    min-height: 450px;
+    text-align: center;
+    background-color: black;
+    opacity: .8;
+    border-bottom: 3px solid#1874cd;
+}
+.carousel-inner, .carousel-control-prev, .carousel-control-next
+{
+    padding-top: 150px;
+}
+#TextTitleInner
+{
+    padding-top: 20px;
+    margin: 0;
+
+}
+.carousel-inner
+{
+    color: white;
+}
+.btn
+{
+    width: 150px;
+    background-color: black;
+}
+#innerAlter, #slideCard{
+
+    padding-top: 0;
+}
+#te
+{
+    color: black;
+}
+.textAline
+{
+    color: black;
+    float: left;
+    margin-right: 100px;
+}
+#cardId
+{
+    max-width: 100px;
+    padding-left: 10px;
+    max-height: 50px;
+    overflow: hidden;
+}
+.col-lm-6
+{
+    float: right;
+    padding-top: 30px;
+}
+#customLine
+{
+    text-align: center;
+    background-size: cover;
+    max-height: 70px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#mainFooter
+{
+    background-color: black;
+}
+#textS, .card-text, .card-title
+{
+    color: black;
+}
+#devider
+{
+    margin-left: 2%;
+    margin-right: 2%;
+    border: 2px solid #53c2e7;
+    opacity: .7;
+    border-style: solid;
+
+}
+#TextDisplay
+{
+    padding: 0;
+    margin: 0;
+    color: rgb(100, 90, 90);
+    text-align: center;
+    
+}
+.col-sm-4, .card-body
+{
+    padding-top: 0;
+    padding-bottom: 0;
+    margin: 0;
+}
+#gmap_canvas, .gmap_canvas, .mapouter
+{
+    width: 100%;
+
+}
+#emailCommunication, #c, #emailS
+{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+#ImageTitle
+{
+    float: right;
+    text-align: center;
+}
+.card1
+{
+    background-color: black;
+    opacity: .9;
+}
+#cardMore
+{
+    text-align: center;
+    color: black;
+}
+#subT{
+
+    text-align: center;
+}
+#carouselExampleControls, .card
+{
+    text-align: center;
+}
+.card
+{
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+}
+#profileModal
+{
+    width: 100%;
+}
+.card-img-top
+{
+    height: 400px;
+    text-align: center;
+    overflow: hidden;
+}
+.lowerFooter
+{
+    background-image: url("Img/FB_IMG_15708258909990091.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: 3px solid#1874cd;
+}
+.jumbotron
+{
+    color: white;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: black;
+    opacity: .9;
+    border-radius: 0;
+}
+
+.social
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+}
+.FooterLine
+{
+    border-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#profileModal, .col-md-4
+{
+    text-align: center;
+}
+.modalLine
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-color: black;
+    overflow: hidden;
+}
+#modallinePng
+{
+    overflow: hidden;
+    width: 90%;
+}
+.imgScale
+{
+    width: 100%;
+}
+.imgScaleR
+{
+    margin-top: 2%;
+    height: 220px;
+    width: 80%;
+    overflow: hidden;
+}
+.imgScaleMR
+{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+.row
+{
+    text-align: center;
+}
+.backIcon
+{
+    background-color: none;
+    margin: 4px;
+    width: 50px;
+    height: 40px;
+    overflow: hidden;
+}
+.textAline{
+
+    background-color: black;
+    max-height: 5px;
+    min-height: 6px;
+}
+.imgModalScale
+{
+    width: 100%;
+}
+.spcialL
+{
+    width: 100%;
+    height: 5px;
+    padding: 0;
+    margin: 0;
+}
+@media (max-width: 768px )
+{ 
+    .card{
+
+        border: none;
+    }
+}
